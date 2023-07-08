@@ -16,3 +16,18 @@ The Vehicle Management System offers the following key features:
 * Database: MySQL (5.x or later)
 * Frontend: HTML, CSS, JavaScript
 * Web Server: Xampp( Apache, phpmyadmin)
+
+# Setup
+To set up the Vehicle Management System project, follow the steps below:
+
+1. Clone the repository to your local machine:
+   git clone https://github.com/riyamehta02/vehicle-management-system.git
+2. Set up a web server environment (Apache or Nginx) and configure it to serve the project directory as the document root.
+3. Import the database schema:
+   * Create a new database in your MySQL server.
+   * Import the database schema from the database.sql file provided in the project directory.
+4. Update the database configuration:
+   * Open the 'config.php' file in the project directory.
+   * Update the 'DB_HOST', 'DB_NAME', 'DB_USER', and 'DB_PASSWORD' constants with your MySQL server details.
+5. Start Your Web server.
+6. Access the application by visiting the appropriate URL in your web browser.
