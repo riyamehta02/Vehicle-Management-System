@@ -1,2 +1,4 @@
 # Vehicle-Management-System
-A tracking program for company vehicles. It keeps track of records of company's vehicle usage by employees: who, when, for what purpose, for how long run the particular car or any vehicle.
+This repository contains the Vehicle Management System project, a web-based application for managing and tracking vehicles. The system allows users to register new vehicles, update vehicle information, delete vehicles, and generate reports. The application is developed using PHP and MySQL, providing an efficient and user-friendly interface for managing vehicles. This README provides an overview of the project and instructions for setting it up and running the application.
+
+[**#Features**]
