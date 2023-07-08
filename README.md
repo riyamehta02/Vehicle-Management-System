@@ -15,4 +15,4 @@ The Vehicle Management System offers the following key features:
 * Backend: PHP (7.x or later)
 * Database: MySQL (5.x or later)
 * Frontend: HTML, CSS, JavaScript
-* Web Server: Apache or Nginx
+* Web Server: Xampp( Apache, phpmyadmin)
