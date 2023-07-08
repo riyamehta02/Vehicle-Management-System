@@ -9,3 +9,10 @@ The Vehicle Management System offers the following key features:
 3. Vehicle Deletion: Remove vehicles from the system when they are no longer in use or have been sold.
 4. Search and Filtering: Perform searches and apply filters to find specific vehicles based on various attributes, such as make, model, or registration number.
 5. Reporting: Generate reports and summaries of vehicles based on different criteria, such as total count, available vehicles, or vehicles by make and model.
+
+# Technologies Used
+
+* Backend: PHP (7.x or later)
+* Database: MySQL (5.x or later)
+* Frontend: HTML, CSS, JavaScript
+* Web Server: Apache or Nginx
